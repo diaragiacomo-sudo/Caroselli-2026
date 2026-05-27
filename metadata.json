@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Carousel Builder",
+  "description": "Un costruttore avanzato di caroselli personalizzabili per social media, con filtri, musica, sticker, transizioni fluide e assistente AI per layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
